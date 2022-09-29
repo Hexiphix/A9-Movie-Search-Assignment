@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A6 Movie Library Abstract Class", "A6 Movie Library Abstract Class\A6 Movie Library Abstract Class.csproj", "{9612E459-1094-4C57-B917-F13CB811CC1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9612E459-1094-4C57-B917-F13CB811CC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9612E459-1094-4C57-B917-F13CB811CC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9612E459-1094-4C57-B917-F13CB811CC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9612E459-1094-4C57-B917-F13CB811CC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463D36E7-8B69-4EB1-9DFE-2D41CD85A1CB}
+	EndGlobalSection
+EndGlobal
