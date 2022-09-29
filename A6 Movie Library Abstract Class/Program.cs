@@ -96,6 +96,7 @@ namespace A6_Movie_Library_Abstract_Class
                 Console.WriteLine(ex.Message);
             }
 
+            Console.WriteLine("\n");
             for (int i = 0; i < media.Count; i++)
             {
                 media[i].Display();
